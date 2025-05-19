@@ -1,0 +1,19 @@
+
+.smart-toolbar {
+  margin-bottom: 10px;
+}
+.smart-toolbar button, .smart-toolbar select, .smart-toolbar input[type="color"] {
+  margin: 4px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
+}
+.smart-editor {
+  min-height: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: white;
+  text-align: left;
+  outline: none;
+}
